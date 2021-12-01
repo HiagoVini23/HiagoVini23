@@ -2,7 +2,7 @@
 
 - 🌀 Nome e Idade: Hiago Vinícius, 19
 - 🌐 Nacionalidade: Brasileira
-- 📚 Cursando Bacharel em Ciência da Computação
+- 📚 Cursando Bacharelado em Ciência da Computação
 - 📗 
 
 <h1>Status:</h1>
