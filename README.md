@@ -2,7 +2,7 @@
 
 - 🌀 Nome e Idade: Hiago Vinícius, 19
 - 🌐 Nacionalidade: Brasileira
-- 📚 Bacharelando em Ciência da Computação
+- 📚 Cursando Bacharel em Ciência da Computação
 - 📗 Buscando aprender mais sobre linguagens de programação
 -
 
