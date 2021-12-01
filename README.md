@@ -3,14 +3,13 @@
 - 🌀 Nome e Idade: Hiago Vinícius, 19
 - 🌐 Nacionalidade: Brasileira
 - 📚 Cursando Bacharel em Ciência da Computação
-- 📗 Buscando aprender mais sobre linguagens de programação
--
+- 📗 
 
 <h1>Status:</h1>
  <div>
   <a href="https://github.com/HiagoVini23"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HiagoVini23&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoVini23&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HiagoVini23&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoVini23&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
  <h1>Contate-me:</h1>
