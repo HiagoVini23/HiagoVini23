@@ -1,9 +1,16 @@
-<h1>Bio:</h1> Opa👋, beleza? 
-
+<h1>Bio:</h1> Eai👋, beleza? 
+<div>
+ <br>
 - 🌀 Nome e Idade: Hiago Vinícius, 19
+ <br>
 - 🌐 Nacionalidade: Brasileira
-- 📚 Cursando Bacharelado em Ciência da Computação
-- 📗 
+  <br>
+- 👨🏻‍🎓 Cursando Bacharelado em Ciência da Computação
+  <br>
+- ❤️ Amante da programação
+ <br>
+- 📚 Focado em aprender coisas novas na área da tecnologia
+</div>
 
 <h1>Status:</h1>
  <div>
@@ -15,8 +22,8 @@
 
  <h1>Contate-me:</h1>
  <div> 
-  <a href = "mailto:hiagovini23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hiagovini23@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+  <a href=" " target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
  </div>
  
 
