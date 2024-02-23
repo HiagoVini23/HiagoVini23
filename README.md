@@ -1,15 +1,15 @@
 <h1>Bio:</h1> Eai👋, beleza? 
 <div>
  <br>
-- 🌀 Nome e Idade: Hiago Vinícius, 20
+- 🌀 Nome e Idade: Hiago Vinícius, 21
  <br>
 - 🌐 Nacionalidade: Brasileira
   <br>
-- 👨🏻‍🎓 Cursando Bacharelado em Ciência da Computação
+- 👨🏻‍🎓 Bacharel em Ciência da Computação
   <br>
 - ❤️ Amante da programação
  <br>
-- 📚 Focado em aprender coisas novas na área da tecnologia
+- 📚 Sempre em busca de novos conhecimentos
 </div>
 
 <h1>Status:</h1>
