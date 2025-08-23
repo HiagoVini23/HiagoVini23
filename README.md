@@ -1,7 +1,7 @@
 <h1>Bio:</h1> Eai👋, beleza? 
 <div>
  <br>
-- 🌀 Nome e Idade: Hiago Vinícius, 22
+- 🌀 Nome: Hiago Vinícius
  <br>
 - 🌐 Nacionalidade: Brasileira
   <br>
